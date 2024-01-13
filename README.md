@@ -3,7 +3,6 @@
 
 Skills: HTML / CSS / JS / REACT JS
 
-- 🔭 I’m currently working on this project: [WordsLab](https://github.com/WordsCards/WordsLab). 
 
 
 
