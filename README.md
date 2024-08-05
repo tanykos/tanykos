@@ -17,7 +17,8 @@
 
 | Repo | Deploy | Description | Stack |
 | ----------- | ----------- | ----------- | ----------- |
-| Coffee House | Link | Website consisting of two pages | JavaScript, HTML, SCSS |
+| [Plantastic](https://github.com/frrrolova/e-commerce) | [Link](https://plantastic-green-shop.netlify.app/) | Plant shop, e-commerce app | React, TypeScript , Redux Toolkit, Vite, CommerceTools, MUI |
+| [Coffee House](https://github.com/tanykos/coffee-house) | [Link](https://tanykos.github.io/coffee-house/) | Website consisting of two pages | JavaScript, HTML, SCSS |
 
 
 
