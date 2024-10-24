@@ -17,8 +17,8 @@
 
 | Repo | Deploy | Description | Stack |
 | ----------- | ----------- | ----------- | ----------- |
-| [Movies search](https://github.com/tanykos/movies-search) | [Link](https://tanykos-movies-search.netlify.app/) | App for searching movie by keyword | React, TypeScript , Redux Toolkit, RTK Query, Vite, Vitest |
 | [Plantastic](https://github.com/frrrolova/e-commerce) | [Link](https://plantastic-green-shop.netlify.app/) | Plant shop, e-commerce app | React, TypeScript , Redux Toolkit, Vite, Jest, CommerceTools, MUI |
+| [Movies search](https://github.com/tanykos/movies-search) | [Link](https://tanykos-movies-search.netlify.app/) | App for searching movie by keyword | React, TypeScript , Redux Toolkit, RTK Query, Vite, Vitest |
 | [Coffee House](https://github.com/tanykos/coffee-house) | [Link](https://tanykos.github.io/coffee-house/) | Website consisting of two pages | JavaScript, HTML, SCSS |
 
 
