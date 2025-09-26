@@ -17,6 +17,7 @@
 
 | Repo | Deploy | Description | Stack |
 | ----------- | ----------- | ----------- | ----------- |
+| [Furever](https://github.com/binary-apple/e-commerce) | [Link](https://tmb-furever.vercel.app/) | Stickers shop, e-commerce app | React, TypeScript , Redux Toolkit, RTK Query, Vite, Vitest, CommerceTools, MUI |
 | [Plantastic](https://github.com/frrrolova/e-commerce) | [Link](https://plantastic-green-shop.netlify.app/) | Plant shop, e-commerce app | React, TypeScript , Redux Toolkit, Vite, Jest, CommerceTools, MUI |
 | [Movies search](https://github.com/tanykos/movies-search) | [Link](https://tanykos-movies-search.netlify.app/) | App for searching movie by keyword | React, TypeScript , Redux Toolkit, RTK Query, Vite, Vitest |
 | [Christmas Shop](https://github.com/tanykos/christmas-shop) | [Link](https://tanykos.github.io/christmas-shop/) | Website consisting of two pages (Perfect pixel) | JavaScript, HTML, SCSS |
