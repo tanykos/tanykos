@@ -1,4 +1,4 @@
-## 👋 Hi there, my name is Tetiana.
+## 👋 Hi there, my name is Tatiana.
 
 ### I am a frontend developer with commercial experience working on various projects such as landing pages and React web-applications. My passion is learning new things and applying knowledge in practice. I am eager to join a company where I can contribute as a reliable team member and help drive the growth and improvement of the project.  
 
