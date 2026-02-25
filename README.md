@@ -17,9 +17,10 @@
 
 | Repo | Deploy | Description | Stack |
 | ----------- | ----------- | ----------- | ----------- |
+| [Meta-Wallet](https://github.com/tanykos/meta-wallet) | [Link](https://tanykos.github.io/meta-wallet/) | Landing page with MetaMask wallet integration | React, TypeScript, Vite, Tailwind, ethers.js |
+| [Conversion chart](https://github.com/tanykos/conversion-chart) | [Link](https://tanykos.github.io/conversion-chart/) | Chart for visualizing A/B testing statistics | React, TypeScript, Vite, Recharts, CSS Modules |
+| [Е-learn](https://github.com/tanykos/e-learn) | [Link](https://tanykos.github.io/e-learn/) | Landing page with registration form | HTML, SCSS, Bootstrap 5, Vite |
 | [Furever](https://github.com/binary-apple/e-commerce) | [Link](https://tmb-furever.vercel.app/) | Stickers shop, e-commerce app | React, TypeScript , Redux Toolkit, RTK Query, Vite, Vitest, CommerceTools, MUI |
-| [Plantastic](https://github.com/frrrolova/e-commerce) | [Link](https://plantastic-green-shop.netlify.app/) | Plant shop, e-commerce app | React, TypeScript , Redux Toolkit, Vite, Jest, CommerceTools, MUI |
-| [Movies search](https://github.com/tanykos/movies-search) | [Link](https://tanykos-movies-search.netlify.app/) | App for searching movie by keyword | React, TypeScript , Redux Toolkit, RTK Query, Vite, Vitest |
 | [Christmas Shop](https://github.com/tanykos/christmas-shop) | [Link](https://tanykos.github.io/christmas-shop/) | Website consisting of two pages (Perfect pixel) | JavaScript, HTML, SCSS |
 | [Coffee House](https://github.com/tanykos/coffee-house) | [Link](https://tanykos.github.io/coffee-house/) | Website consisting of two pages (Perfect pixel) | JavaScript, HTML, SCSS |
 
